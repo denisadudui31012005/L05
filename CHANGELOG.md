@@ -1,5 +1,5 @@
-## v1.0
-### Changed
-- Added a minimum length requirement of 10 characters for passwords
-- Changed email validation to require both "@" and "." in the email address
-- Changed vowel counting to include both lowercase and uppercase vowels
+New Features:
+- Count uppercase vowels too (vowels.py)
+
+Improvements:
+- Email must have @ and . (email_check.py)
